@@ -28,6 +28,7 @@ Official guide: https://docs.github.com/en/pages/getting-started-with-github-pag
 
 - Contact: ian.dorosh@outlook.com (in the contact section and privacy policy).
 - App screenshots use fictional music and original demo artwork.
+- The Duo showcase uses fresh full-screen simulator captures in unfolded portrait. Optimized images are in `assets/duo-*.webp`; the extra Songs screenshot is available as `assets/duo-songs.webp`. Original 2007 × 2853 PNGs are saved alongside the app project in `Previews/Marketing-Duo-Portrait`.
 - The privacy policy is based on the current app source: MusicKit library and playback integration, local preferences, saved Solitaire progress, and a local Brick Breaker high score. Update it before shipping changes to data handling.
 - Add the real App Store listing link once available. The current page does not show an unverified download button.
 
